@@ -1,0 +1,2168 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Eadder
+Z0 w1675676889
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 350
+Z4 d//Mac/Home/Downloads/vhdl_fpga
+Z5 8//Mac/Home/Downloads/vhdl_fpga/Adder.vhd
+Z6 F//Mac/Home/Downloads/vhdl_fpga/Adder.vhd
+l0
+L5 1
+V=J=n0P=J^4lQka_j8z>Nj2
+!s100 <KhGBnoPCZ]_>Xzi6SiV62
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1675686468
+!i10b 1
+Z9 !s108 1675686467.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/Adder.vhd|
+Z11 !s107 //Mac/Home/Downloads/vhdl_fpga/Adder.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+DEx4 work 5 adder 0 22 =J=n0P=J^4lQka_j8z>Nj2
+!i122 350
+l13
+L11 11
+V0IXEVHlVm@oa:g?41GgNj1
+!s100 3blK3FdMKoi66Kb:=bW=P3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eadder_basys2
+w1675172196
+R1
+R2
+R3
+!i122 14
+R4
+8//Mac/Home/Downloads/vhdl_fpga/Adder_Basys2.vhd
+F//Mac/Home/Downloads/vhdl_fpga/Adder_Basys2.vhd
+l0
+L6 1
+V297c^ek>gOTi6L@E][JKd2
+!s100 FTHNeJRFfD3a<gGI2zK?f3
+R7
+32
+Z14 !s110 1675172328
+!i10b 1
+Z15 !s108 1675172328.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/Adder_Basys2.vhd|
+!s107 //Mac/Home/Downloads/vhdl_fpga/Adder_Basys2.vhd|
+!i113 1
+R12
+R13
+Eadder_basys2_tb
+w1675172164
+R1
+R2
+R3
+!i122 15
+R4
+Z16 8//Mac/Home/Downloads/vhdl_fpga/Adder_Basys2_tb.vhd
+Z17 F//Mac/Home/Downloads/vhdl_fpga/Adder_Basys2_tb.vhd
+l0
+L6 1
+V5g?o8^ZceEK?C_KS`IJ2:3
+!s100 _Mz?7XP:1OoMAS5Pi3XX;3
+R7
+32
+R14
+!i10b 1
+R15
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/Adder_Basys2_tb.vhd|
+Z19 !s107 //Mac/Home/Downloads/vhdl_fpga/Adder_Basys2_tb.vhd|
+!i113 1
+R12
+R13
+Eadder_tb
+Z20 w1675171264
+R1
+R2
+R3
+!i122 349
+R4
+Z21 8//Mac/Home/Downloads/vhdl_fpga/Adder_tb.vhd
+Z22 F//Mac/Home/Downloads/vhdl_fpga/Adder_tb.vhd
+l0
+L5 1
+V5C[=O?8jRgbNTTSOW<;6>3
+!s100 S1]386LkU9e5BKTXNZfG22
+R7
+32
+Z23 !s110 1675686467
+!i10b 1
+R9
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/Adder_tb.vhd|
+Z25 !s107 //Mac/Home/Downloads/vhdl_fpga/Adder_tb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 8 adder_tb 0 22 5C[=O?8jRgbNTTSOW<;6>3
+!i122 349
+l20
+L8 36
+VSzS@K:Gz9Nf[_enijN<Wf3
+!s100 9jg[QnMiXdBSE5i8VFLbZ0
+R7
+32
+R23
+!i10b 1
+R9
+R24
+R25
+!i113 1
+R12
+R13
+Eadderlcd
+Z26 w1675677402
+R1
+R2
+R3
+!i122 351
+R4
+Z27 8//Mac/Home/Downloads/vhdl_fpga/adderlcd.vhd
+Z28 F//Mac/Home/Downloads/vhdl_fpga/adderlcd.vhd
+l0
+L6 1
+VZ:lio6IiKOL0nFiJ5OIgh3
+!s100 SQ5cCnRkTkW]I8HTeW5nT3
+R7
+32
+R8
+!i10b 1
+Z29 !s108 1675686468.000000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/adderlcd.vhd|
+Z31 !s107 //Mac/Home/Downloads/vhdl_fpga/adderlcd.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 8 adderlcd 0 22 Z:lio6IiKOL0nFiJ5OIgh3
+!i122 351
+l14
+L12 15
+V;`D1Wf[iS]VL>VXbBLL;n3
+!s100 QA7GVGVDNPWn^5zUYcTKP0
+R7
+32
+R8
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R12
+R13
+Eadderlcd_tb
+Z32 w1675677624
+R1
+R2
+R3
+!i122 352
+R4
+Z33 8//Mac/Home/Downloads/vhdl_fpga/adderlcd_tb.vhd
+Z34 F//Mac/Home/Downloads/vhdl_fpga/adderlcd_tb.vhd
+l0
+L5 1
+V9f0[WCj2S2H0VSza0QKbV3
+!s100 DPgH5ST7ckK73IMoH[IzB0
+R7
+32
+R8
+!i10b 1
+R29
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/adderlcd_tb.vhd|
+Z36 !s107 //Mac/Home/Downloads/vhdl_fpga/adderlcd_tb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 11 adderlcd_tb 0 22 9f0[WCj2S2H0VSza0QKbV3
+!i122 352
+l19
+L8 38
+VV41Sn0=V=^4cFC3PII[f]0
+!s100 J`hXHB6jFI5J;SkTlNJ8e2
+R7
+32
+R8
+!i10b 1
+R29
+R35
+R36
+!i113 1
+R12
+R13
+Earithmetic_sum
+w1675175406
+R1
+R2
+R3
+!i122 55
+R4
+Z37 8//Mac/Home/Downloads/vhdl_fpga/arithmetic_sum.vhd
+Z38 F//Mac/Home/Downloads/vhdl_fpga/arithmetic_sum.vhd
+l0
+L5 1
+VZn198f9>0e0gV?@WZmW]G1
+!s100 m8^@;V_=5>GC[AH]PKg810
+R7
+32
+!s110 1675175410
+!i10b 1
+!s108 1675175410.000000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/arithmetic_sum.vhd|
+Z40 !s107 //Mac/Home/Downloads/vhdl_fpga/arithmetic_sum.vhd|
+!i113 1
+R12
+R13
+Earithmetic_sum_tb
+w1675175365
+R1
+R2
+R3
+!i122 64
+R4
+8//Mac/Home/Downloads/vhdl_fpga/arithmetic_sum_tb.vhd
+F//Mac/Home/Downloads/vhdl_fpga/arithmetic_sum_tb.vhd
+l0
+L6 1
+V9fc16nmC_1lXob2=dN5`L2
+!s100 P0hHQ0o4hUG@iAFb??`:j2
+R7
+32
+Z41 !s110 1675177474
+!i10b 1
+Z42 !s108 1675177474.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/arithmetic_sum_tb.vhd|
+!s107 //Mac/Home/Downloads/vhdl_fpga/arithmetic_sum_tb.vhd|
+!i113 1
+R12
+R13
+Eassign_sum_output
+w1675176785
+R1
+R2
+R3
+!i122 63
+R4
+R37
+R38
+l0
+L5 1
+VjYXTJJ;XL8F0Y_VIRfbTE3
+!s100 LdMA2mV0[VE6k`MfLS4cF3
+R7
+32
+R41
+!i10b 1
+R42
+R39
+R40
+!i113 1
+R12
+R13
+Pbasys2
+R2
+R3
+!i122 354
+Z43 w1674988038
+R4
+Z44 8//Mac/Home/Downloads/vhdl_fpga/Basys2.vhd
+Z45 F//Mac/Home/Downloads/vhdl_fpga/Basys2.vhd
+l0
+L5 1
+V8f[F=ei_6CdnnCFd3;Chc2
+!s100 Sl4MHzFhWeNz87ei@Y]092
+R7
+32
+Z46 !s110 1675686469
+!i10b 1
+R29
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/Basys2.vhd|
+Z48 !s107 //Mac/Home/Downloads/vhdl_fpga/Basys2.vhd|
+!i113 1
+R12
+R13
+Bbody
+Z49 DPx4 work 6 basys2 0 22 8f[F=ei_6CdnnCFd3;Chc2
+R2
+R3
+!i122 354
+l0
+L12 1
+V:GN09A8eiBjNl3_Uhib]l3
+!s100 P@7k^^I6PS8>C]I?z1D0@1
+R7
+32
+R46
+!i10b 1
+R29
+R47
+R48
+!i113 1
+R12
+R13
+Ebasys2comm
+R43
+R49
+Z50 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z51 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R2
+R3
+!i122 355
+R4
+Z52 8//Mac/Home/Downloads/vhdl_fpga/Basys2Comm.vhd
+Z53 F//Mac/Home/Downloads/vhdl_fpga/Basys2Comm.vhd
+l0
+L35 1
+V=6WkD=f;`oI:Cod1n200D3
+!s100 WHWTfTo42Go3XN`>jR4IU3
+R7
+32
+R46
+!i10b 1
+Z54 !s108 1675686469.000000
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/Basys2Comm.vhd|
+Z56 !s107 //Mac/Home/Downloads/vhdl_fpga/Basys2Comm.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R49
+R50
+R51
+R2
+R3
+DEx4 work 10 basys2comm 0 22 =6WkD=f;`oI:Cod1n200D3
+!i122 355
+l110
+L54 333
+V=c]XCj=di8kJz>@Bk79aM1
+!s100 86k_6>fR[TlSm<A;ISVa20
+R7
+32
+R46
+!i10b 1
+R54
+R55
+R56
+!i113 1
+R12
+R13
+Ebasys2lcd
+R43
+R49
+R1
+R2
+R3
+!i122 356
+R4
+Z57 8//Mac/Home/Downloads/vhdl_fpga/Basys2Lcd.vhd
+Z58 F//Mac/Home/Downloads/vhdl_fpga/Basys2Lcd.vhd
+l0
+L26 1
+VFS4>hKS@X]Th9:Ye`W:c^1
+!s100 gPXBF]<Q0fiIi[gGgQl:?1
+R7
+32
+R46
+!i10b 1
+R54
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/Basys2Lcd.vhd|
+Z60 !s107 //Mac/Home/Downloads/vhdl_fpga/Basys2Lcd.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R49
+R1
+R2
+R3
+DEx4 work 9 basys2lcd 0 22 FS4>hKS@X]Th9:Ye`W:c^1
+!i122 356
+l62
+L38 84
+V`XdG?B8i4ocE^dLUV=;^e3
+!s100 5FM2MP7ZMFX:LJN`7Q@CR1
+R7
+32
+R46
+!i10b 1
+R54
+R59
+R60
+!i113 1
+R12
+R13
+Ebin_to_bcd_counter
+w1675244082
+R1
+R2
+R3
+!i122 90
+R4
+Z61 8\\Mac\Home\Downloads\vhdl_fpga\binaryTObcd.vhd
+Z62 F\\Mac\Home\Downloads\vhdl_fpga\binaryTObcd.vhd
+l0
+L5 1
+V3iVIC8d[mDa8T]fUYzDBY2
+!s100 9:6zmS:[g53:Z]ch649cJ1
+R7
+32
+!s110 1675244085
+!i10b 1
+!s108 1675244085.000000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|\\Mac\Home\Downloads\vhdl_fpga\binaryTObcd.vhd|
+Z64 !s107 \\Mac\Home\Downloads\vhdl_fpga\binaryTObcd.vhd|
+!i113 1
+R12
+R13
+Ebinary_to_bcd_counter
+w1675243717
+R1
+R2
+R3
+!i122 89
+R4
+R61
+R62
+l0
+L6 1
+VL0bWI]bn0n:8j@ionB<Zn1
+!s100 6gcFF8=IUAIoIkWJ9I4R73
+R7
+32
+!s110 1675243721
+!i10b 1
+!s108 1675243720.000000
+R63
+R64
+!i113 1
+R12
+R13
+Ebinbcd4
+Z65 w1675254241
+R1
+R2
+R3
+!i122 127
+R4
+Z66 8//Mac/Home/Downloads/vhdl_fpga/binbcd4.vhd
+Z67 F//Mac/Home/Downloads/vhdl_fpga/binbcd4.vhd
+l0
+L5 1
+VIc:GOP0VE8?F<mMFe9;=41
+!s100 WVS[1W1EUR;XJPXLB4_I<2
+R7
+32
+!s110 1675257945
+!i10b 1
+Z68 !s108 1675257944.000000
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/binbcd4.vhd|
+Z70 !s107 //Mac/Home/Downloads/vhdl_fpga/binbcd4.vhd|
+!i113 1
+R12
+R13
+Abinbcd4
+R1
+R2
+R3
+Z71 DEx4 work 7 binbcd4 0 22 Eo=7V]NkB]]_1<h@P@WO13
+!i122 125
+l14
+L12 31
+VDXoQ?eg<aYdG42Sd<<MCm2
+!s100 ;B3dLDkAWIhIi1:2LbJVB2
+R7
+32
+!s110 1675254112
+!i10b 1
+!s108 1675254112.000000
+R69
+R70
+!i113 1
+R12
+R13
+Ebinbcd4_tb
+Z72 w1675254106
+R2
+R3
+!i122 126
+R4
+Z73 8\\Mac\Home\Downloads\vhdl_fpga\binbcd4_tb.vhd
+Z74 F\\Mac\Home\Downloads\vhdl_fpga\binbcd4_tb.vhd
+l0
+L4 1
+VO2JLBN4LJ5o@Wg:_3KBK61
+!s100 Ub4dG9L0BZ9Fi_GPT]<;`0
+R7
+32
+Z75 !s110 1675257944
+!i10b 1
+R68
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|\\Mac\Home\Downloads\vhdl_fpga\binbcd4_tb.vhd|
+Z77 !s107 \\Mac\Home\Downloads\vhdl_fpga\binbcd4_tb.vhd|
+!i113 1
+R12
+R13
+Abinbcd4_tb
+R1
+R71
+R2
+R3
+DEx4 work 10 binbcd4_tb 0 22 O2JLBN4LJ5o@Wg:_3KBK61
+!i122 126
+l12
+L7 33
+VI2fK@FLM>hU1=N<;ZA>JC2
+!s100 ]b25aU`VLi>bWQ@1;9j7G3
+R7
+32
+R75
+!i10b 1
+R68
+R76
+R77
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 10 binbcd4_tb 0 22 oO>o?SGQ=G:9o12eYRlBo3
+!i122 122
+l17
+Z78 L8 32
+V2hmCKjDFEe6WBlHVSAoF<2
+!s100 ?07bXd`0IdFW>oTfC1]hB2
+R7
+32
+!s110 1675253960
+!i10b 1
+!s108 1675253959.000000
+R76
+R77
+!i113 1
+R12
+R13
+w1675253785
+Ecounter
+Z79 w1675674589
+R1
+R2
+R3
+!i122 347
+R4
+Z80 8//Mac/Home/Downloads/vhdl_fpga/counter.vhd
+Z81 F//Mac/Home/Downloads/vhdl_fpga/counter.vhd
+l0
+L6 1
+Vfc4d<J9J<zDQiKk>6PZ0<2
+!s100 :QW>A3O1jMfoU@;4mG3O50
+R7
+32
+R23
+!i10b 1
+R9
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/counter.vhd|
+Z83 !s107 //Mac/Home/Downloads/vhdl_fpga/counter.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 7 counter 0 22 fc4d<J9J<zDQiKk>6PZ0<2
+!i122 347
+l19
+L13 23
+V]ThlldT?>n[mWeLMCmR753
+!s100 I9JTCJgOc`PK<5b8P7LW<2
+R7
+32
+R23
+!i10b 1
+R9
+R82
+R83
+!i113 1
+R12
+R13
+Ecounter_tb
+Z84 w1675674690
+R1
+R2
+R3
+!i122 348
+R4
+Z85 8//Mac/Home/Downloads/vhdl_fpga/counter_tb.vhd
+Z86 F//Mac/Home/Downloads/vhdl_fpga/counter_tb.vhd
+l0
+L5 1
+V`eoahm4F=`m4L]lH1V[Cf2
+!s100 KGNOl6WcEe]oX=7?dEYC;3
+R7
+32
+R23
+!i10b 1
+R9
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/counter_tb.vhd|
+Z88 !s107 //Mac/Home/Downloads/vhdl_fpga/counter_tb.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 10 counter_tb 0 22 `eoahm4F=`m4L]lH1V[Cf2
+!i122 348
+l31
+L8 50
+VKeAhfM:FKf^hk@a5F;f=Z0
+!s100 RG1]Len<fg01j6OaWPCXk0
+R7
+32
+R23
+!i10b 1
+R9
+R87
+R88
+!i113 1
+R12
+R13
+Eflipflop
+R43
+R2
+R3
+!i122 357
+R4
+Z89 8//Mac/Home/Downloads/vhdl_fpga/flipflop.vhd
+Z90 F//Mac/Home/Downloads/vhdl_fpga/flipflop.vhd
+l0
+L5 1
+V[j_34bZ]TDWPU[7F>W@^31
+!s100 =cV75HUTZ56K3@Kli:6c20
+R7
+32
+Z91 !s110 1675686470
+!i10b 1
+R54
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/flipflop.vhd|
+Z93 !s107 //Mac/Home/Downloads/vhdl_fpga/flipflop.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+DEx4 work 8 flipflop 0 22 [j_34bZ]TDWPU[7F>W@^31
+!i122 357
+l18
+L14 19
+V<=z>OHYfDO_BbOHWmkZDV3
+!s100 M;LIkYk3SYKL]j5A1DVTz1
+R7
+32
+R91
+!i10b 1
+R54
+R92
+R93
+!i113 1
+R12
+R13
+Eflipflop_tb
+R43
+R1
+R2
+R3
+!i122 361
+R4
+Z94 8//Mac/Home/Downloads/vhdl_fpga/tb_flipflop.vhd
+Z95 F//Mac/Home/Downloads/vhdl_fpga/tb_flipflop.vhd
+l0
+L5 1
+VZ>4@FK7^gd:_zejeg9kjS1
+!s100 m^lnIVf6R6Rf7>1fLBl6Z3
+R7
+32
+Z96 !s110 1675686471
+!i10b 1
+Z97 !s108 1675686470.000000
+Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/tb_flipflop.vhd|
+Z99 !s107 //Mac/Home/Downloads/vhdl_fpga/tb_flipflop.vhd|
+!i113 1
+R12
+R13
+Abench
+R1
+R2
+R3
+DEx4 work 11 flipflop_tb 0 22 Z>4@FK7^gd:_zejeg9kjS1
+!i122 361
+l27
+L8 44
+V7oB_Qc6SamAhJ;oVlO3[G3
+!s100 B8c2eZjl0L^0SM1O4Y?F^0
+R7
+32
+R96
+!i10b 1
+R97
+R98
+R99
+!i113 1
+R12
+R13
+Efour_bit_adder
+Z100 w1675673987
+R1
+R2
+R3
+!i122 344
+R4
+Z101 8//Mac/Home/Downloads/vhdl_fpga/test.vhd
+Z102 F//Mac/Home/Downloads/vhdl_fpga/test.vhd
+l0
+L5 1
+VajAZ^0:W3QC;h?bbLKA^f2
+!s100 zBR9fASIGNCnEJ>YgNWQQ3
+R7
+32
+Z103 !s110 1675686466
+!i10b 1
+Z104 !s108 1675686466.000000
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/test.vhd|
+Z106 !s107 //Mac/Home/Downloads/vhdl_fpga/test.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 14 four_bit_adder 0 22 ajAZ^0:W3QC;h?bbLKA^f2
+!i122 344
+l13
+L12 5
+Vo`g[_SkUSa>F_jW@4l8dT1
+!s100 jmInVd@9[==;ozeXffUZF0
+R7
+32
+R103
+!i10b 1
+R104
+R105
+R106
+!i113 1
+R12
+R13
+Efour_bit_adder_tb
+Z107 w1675673848
+R1
+R2
+R3
+!i122 343
+R4
+Z108 8//Mac/Home/Downloads/vhdl_fpga/test_tb.vhd
+Z109 F//Mac/Home/Downloads/vhdl_fpga/test_tb.vhd
+l0
+L5 1
+V0]2[iNcAO>zQRdY`dBl=B1
+!s100 P:mR3@j=O?IB]3Y5l1K@93
+R7
+32
+R103
+!i10b 1
+Z110 !s108 1675686465.000000
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/test_tb.vhd|
+Z112 !s107 //Mac/Home/Downloads/vhdl_fpga/test_tb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 17 four_bit_adder_tb 0 22 0]2[iNcAO>zQRdY`dBl=B1
+!i122 343
+l21
+R78
+VIdkK87>_zHQ?[VZdh4DKI0
+!s100 Ce9@hMhNDH5af:O1IddaK0
+R7
+32
+R103
+!i10b 1
+R110
+R111
+R112
+!i113 1
+R12
+R13
+Elatch_flipflop
+Z113 w1675416890
+R2
+R3
+!i122 228
+R4
+R101
+R102
+l0
+L4 1
+V^mzzN1JUJ4Bgm`V?n=L9Q1
+!s100 D1HfTY;;JG^aVVemON8<V2
+R7
+32
+Z114 !s110 1675671817
+!i10b 1
+Z115 !s108 1675671817.000000
+R105
+R106
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+Z116 DEx4 work 14 latch_flipflop 0 22 ^mzzN1JUJ4Bgm`V?n=L9Q1
+!i122 228
+l14
+L12 24
+V1c6c99JWORieL0`Hal^QY0
+!s100 1]a;OWBT6]c^;RBa2:6U_1
+R7
+32
+R114
+!i10b 1
+R115
+R105
+R106
+!i113 1
+R12
+R13
+Elatch_flipflop_tb
+Z117 w1675671812
+R2
+R3
+!i122 227
+R4
+R108
+R109
+l0
+L4 1
+VbQ15KOS^OdkWRS7LQ5]CL1
+!s100 CD5]C4S5]z5BOgHE?Kh9G2
+R7
+32
+R114
+!i10b 1
+Z118 !s108 1675671816.000000
+R111
+R112
+!i113 1
+R12
+R13
+Atb
+R116
+R2
+R3
+DEx4 work 17 latch_flipflop_tb 0 22 bQ15KOS^OdkWRS7LQ5]CL1
+!i122 227
+l13
+L7 46
+V@0=aOUieVZ0]]@KzQ^44[2
+!s100 SbMG7bL6F<VJH^<7o`A850
+R7
+32
+R114
+!i10b 1
+R118
+R111
+R112
+!i113 1
+R12
+R13
+Ememory_cell
+Z119 w1675263688
+R1
+R2
+R3
+!i122 131
+R4
+Z120 8//Mac/Home/Downloads/vhdl_fpga/memory_cell.vhd
+Z121 F//Mac/Home/Downloads/vhdl_fpga/memory_cell.vhd
+l0
+L5 1
+V=2V68^Y2BIo@TY^PUA0<T1
+!s100 2TohJS^SiSAITSnn0[^hH3
+R7
+32
+Z122 !s110 1675263692
+!i10b 1
+Z123 !s108 1675263692.000000
+Z124 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/memory_cell.vhd|
+Z125 !s107 //Mac/Home/Downloads/vhdl_fpga/memory_cell.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+Z126 DEx4 work 11 memory_cell 0 22 =2V68^Y2BIo@TY^PUA0<T1
+!i122 131
+l18
+L13 36
+V>c5B5D9XidPR034<Q`FS=1
+!s100 @JB7@:gC==9V?f];<RSd>1
+R7
+32
+R122
+!i10b 1
+R123
+R124
+R125
+!i113 1
+R12
+R13
+Ememory_cell_tb
+Z127 w1675263545
+R2
+R3
+!i122 132
+R4
+Z128 8//Mac/Home/Downloads/vhdl_fpga/memory_cell_tb.vhd
+Z129 F//Mac/Home/Downloads/vhdl_fpga/memory_cell_tb.vhd
+l0
+L5 1
+V@WOkmbikV2<A>OH:=?]1[0
+!s100 FG[A_ILVoklNl;RHk3A5C2
+R7
+32
+R122
+!i10b 1
+R123
+Z130 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/memory_cell_tb.vhd|
+Z131 !s107 //Mac/Home/Downloads/vhdl_fpga/memory_cell_tb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R126
+R2
+R3
+DEx4 work 14 memory_cell_tb 0 22 @WOkmbikV2<A>OH:=?]1[0
+!i122 132
+l15
+L8 46
+VLY?B_c9X?GQD6oizNRba:3
+!s100 XLjz9aLWNdioC@hTP4HeD1
+R7
+32
+R122
+!i10b 1
+R123
+R130
+R131
+!i113 1
+R12
+R13
+Eprogram_1
+R43
+R2
+R3
+!i122 358
+R4
+Z132 8//Mac/Home/Downloads/vhdl_fpga/program.vhd
+Z133 F//Mac/Home/Downloads/vhdl_fpga/program.vhd
+l0
+L4 1
+VF4mB78dhjz>oXQj1e[`T[0
+!s100 ;aZ8[kz^<]7AjZ8?[16X60
+R7
+32
+R91
+!i10b 1
+R97
+Z134 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/program.vhd|
+Z135 !s107 //Mac/Home/Downloads/vhdl_fpga/program.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 9 program_1 0 22 F4mB78dhjz>oXQj1e[`T[0
+!i122 358
+l13
+L12 4
+V;C;EJ8dV=07>hcI6z92gH3
+!s100 RVeK=N`i?K2cdJ2G??2CT0
+R7
+32
+R91
+!i10b 1
+R97
+R134
+R135
+!i113 1
+R12
+R13
+Eprogram_add
+R43
+R1
+R2
+R3
+!i122 353
+R4
+Z136 8//Mac/Home/Downloads/vhdl_fpga/add.vhd
+Z137 F//Mac/Home/Downloads/vhdl_fpga/add.vhd
+l0
+L5 1
+V>GWo6Nl3@<CYEzXGP<T931
+!s100 0h6UfbGY3m>A`C3Ub:Ak[0
+R7
+32
+R8
+!i10b 1
+R29
+Z138 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/add.vhd|
+Z139 !s107 //Mac/Home/Downloads/vhdl_fpga/add.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 11 program_add 0 22 >GWo6Nl3@<CYEzXGP<T931
+!i122 353
+l14
+L13 4
+Vob<3UBX^HXQk>S<7<69Jc0
+!s100 Tb<okKH[hJM<cU?oAO@dY1
+R7
+32
+R8
+!i10b 1
+R29
+R138
+R139
+!i113 1
+R12
+R13
+Ereg_8bit
+Z140 w1675239278
+R1
+R2
+R3
+!i122 80
+R4
+Z141 8//Mac/Home/Downloads/vhdl_fpga/reg_8bit.vhd
+Z142 F//Mac/Home/Downloads/vhdl_fpga/reg_8bit.vhd
+l0
+L5 1
+V@6JT8M@0_Nc00DH;75mC62
+!s100 W::<V4[5jioQ7ZUC_2>af1
+R7
+32
+!s110 1675239381
+!i10b 1
+!s108 1675239381.000000
+Z143 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/reg_8bit.vhd|
+Z144 !s107 //Mac/Home/Downloads/vhdl_fpga/reg_8bit.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 8 reg_8bit 0 22 @6JT8M@0_Nc00DH;75mC62
+!i122 73
+l18
+L14 22
+VJ5abBkgXTmbKojRh0HlC]3
+!s100 Bffz2U7XWX_<jdHkRjMOc3
+R7
+32
+!s110 1675238404
+!i10b 1
+!s108 1675238404.000000
+R143
+R144
+!i113 1
+R12
+R13
+Ereg_8bit_tb
+Z145 w1675239041
+R2
+R3
+!i122 84
+R4
+Z146 8//Mac/Home/Downloads/vhdl_fpga/reg_8bit_tb.vhd
+Z147 F//Mac/Home/Downloads/vhdl_fpga/reg_8bit_tb.vhd
+l0
+L5 1
+V_?SMbg1kKkNe?^QP6BQ242
+!s100 D8WAO@jlN^NECQ@4cg?b]3
+R7
+32
+Z148 !s110 1675240095
+!i10b 1
+Z149 !s108 1675240095.000000
+Z150 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/reg_8bit_tb.vhd|
+Z151 !s107 //Mac/Home/Downloads/vhdl_fpga/reg_8bit_tb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 11 reg_8bit_tb 0 22 _?SMbg1kKkNe?^QP6BQ242
+!i122 84
+l25
+L8 56
+VU2:ghKMdUk7T8fhdF4ohJ1
+!s100 RzFHRAJ?eSh?]FXg[f^A=2
+R7
+32
+R148
+!i10b 1
+R149
+R150
+R151
+!i113 1
+R12
+R13
+Eserial2parallel
+Z152 w1675408447
+R2
+R3
+!i122 210
+R4
+R101
+R102
+l0
+L4 1
+VXzO0ILORmzT_NCGd2XGhQ0
+!s100 ;1bDUBfEM=izP8@n[JD:_1
+R7
+32
+Z153 !s110 1675408451
+!i10b 1
+Z154 !s108 1675408451.000000
+R105
+R106
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 15 serial2parallel 0 22 XzO0ILORmzT_NCGd2XGhQ0
+!i122 210
+l17
+L15 21
+Vmf[EQ?YnH^U9D^@R`BiDf0
+!s100 `8:C;ih;=Pk@Na_c;5h[31
+R7
+32
+R153
+!i10b 1
+R154
+R105
+R106
+!i113 1
+R12
+R13
+Eserial2parallel_tb
+Z155 w1675408427
+R2
+R3
+!i122 209
+R4
+R108
+R109
+l0
+L4 1
+V:<eLgY9?`<_1k0KLEfz;c2
+!s100 GFbZFYKe2T`N[?aa2WW_z2
+R7
+32
+R153
+!i10b 1
+R154
+R111
+R112
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 18 serial2parallel_tb 0 22 :<eLgY9?`<_1k0KLEfz;c2
+!i122 209
+l26
+Z156 L7 57
+V3iZI_Z=dV?:Bhe4=2CLVn0
+!s100 <:I[[Glgo=<i6hRU]ehMF0
+R7
+32
+R153
+!i10b 1
+R154
+R111
+R112
+!i113 1
+R12
+R13
+Eshift_register
+Z157 w1675375523
+R2
+R3
+!i122 198
+R4
+R101
+R102
+l0
+L4 1
+VF62NK5Vb[n`?RW]:?TG8b2
+!s100 4;j]zIX7BAR0R8LT2Mb@Q0
+R7
+32
+!s110 1675375579
+!i10b 1
+!s108 1675375579.000000
+R105
+R106
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 14 shift_register 0 22 z`U^ZAAD4fMX@4F?^3[5?2
+!i122 184
+l21
+L19 17
+VFLC^cDW=OI6dQXX=zNRjX2
+!s100 FR2L3lQ`K;M15K^cYY9<R1
+R7
+32
+!s110 1675372561
+!i10b 1
+!s108 1675372561.000000
+R105
+R106
+!i113 1
+R12
+R13
+w1675372543
+Abehavior
+R2
+R3
+DEx4 work 14 shift_register 0 22 @hE>hbWn2C??JU<9?`@Cc3
+!i122 135
+l16
+L14 11
+V6=Rfb7=S3Sf<7nOQDdfYi0
+!s100 :mfLIBVli]6DDP>Fi5?dR2
+R7
+32
+Z158 !s110 1675368233
+!i10b 1
+!s108 1675368233.000000
+R105
+R106
+!i113 1
+R12
+R13
+Eshift_register_tb
+Z159 w1675375543
+R2
+R3
+!i122 205
+R4
+R108
+R109
+l0
+L4 1
+VgN><j>Qzh;o<C_N_0e_@P2
+!s100 fXdhH1zNPd5M_FoY;g@h@2
+R7
+32
+!s110 1675408418
+!i10b 1
+!s108 1675408418.000000
+R111
+R112
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 17 shift_register_tb 0 22 8G;43;EXQ;SDH:23^[VO60
+!i122 179
+l30
+L8 76
+V?FCEYA15d9BhMQkJDi>fi0
+!s100 ZHX2>PPo9Ec`SfCdJmfV22
+R7
+32
+!s110 1675371624
+!i10b 1
+!s108 1675371624.000000
+R111
+R112
+!i113 1
+R12
+R13
+w1675371554
+Abehavior
+R2
+R3
+DEx4 work 17 shift_register_tb 0 22 08g_3P;6M7jPzYonVdS@O2
+!i122 134
+l23
+L8 53
+Vioja5INIdOz7a8]0G=DRc3
+!s100 ]6lBQ4<YHRcjMd[bZoiaF3
+R7
+32
+R158
+!i10b 1
+!s108 1675368232.000000
+R111
+R112
+!i113 1
+R12
+R13
+Eshift_right_register
+Z160 w1675373418
+R2
+R3
+!i122 190
+R4
+R101
+R102
+l0
+L5 1
+VKe[4bKXd1kT:3MjQ_Vk^V3
+!s100 ^@kXfNX^]jEIi6]e6B]_53
+R7
+32
+Z161 !s110 1675373446
+!i10b 1
+Z162 !s108 1675373446.000000
+R105
+R106
+!i113 1
+R12
+R13
+Atwo_seg_arch
+R2
+R3
+Z163 DEx4 work 20 shift_right_register 0 22 z7[ea7HMcSRMno1dlYdXm1
+!i122 188
+l16
+Z164 L13 20
+V=?HUElN?;ie0[mcOd_UJn0
+!s100 8j:4:NCnKa:DYeRc9>JYM2
+R7
+32
+!s110 1675373003
+!i10b 1
+!s108 1675373002.000000
+R105
+R106
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 20 shift_right_register 0 22 j@d`FHB^bhoUN>_l5=BN>1
+!i122 87
+l15
+R164
+V2SadBNFCmnF`_KKKmDZ^N2
+!s100 RVb=o@4FczGPjOIU49Hm@1
+R7
+32
+Z165 !s110 1675240422
+!i10b 1
+Z166 !s108 1675240422.000000
+R143
+R144
+!i113 1
+R12
+R13
+R142
+w1675240091
+R141
+Eshift_right_register_tb
+Z167 w1675372337
+R2
+R3
+!i122 191
+R4
+R108
+R109
+l0
+L4 1
+VG_1I[O<2Ki]OdzcFaKV6m3
+!s100 A^IVCPE3;89kZiNSG4ah31
+R7
+32
+!s110 1675373816
+!i10b 1
+!s108 1675373815.000000
+R111
+R112
+!i113 1
+R12
+R13
+Asimulation
+R163
+R2
+R3
+Z168 DEx4 work 23 shift_right_register_tb 0 22 G_1I[O<2Ki]OdzcFaKV6m3
+!i122 189
+l12
+Z169 L7 43
+VFamh2Qkz8=YRdMLhafiE^0
+!s100 X1ZPK:<;`3NEhX@4:^kPL1
+R7
+32
+R161
+!i10b 1
+R162
+R111
+R112
+!i113 1
+R12
+R13
+Asim
+R2
+R3
+R168
+!i122 153
+l21
+Z170 L7 53
+VfQo<^QfKf8n]I5]XCPDl63
+!s100 Mbh3N2;bWhz88J4Uk_L;?1
+R7
+32
+!s110 1675369883
+!i10b 1
+!s108 1675369883.000000
+R111
+R112
+!i113 1
+R12
+R13
+w1675369875
+Abehavioral
+R2
+R3
+DEx4 work 23 shift_right_register_tb 0 22 BOc<PLZNa=0<l]j>H61Ed3
+!i122 88
+l24
+L7 60
+VKjN>ZL0Zf1ko`Q@QZ5W9k2
+!s100 `VlhMj@XWcP2WzW]<PzJG1
+R7
+32
+R165
+!i10b 1
+R166
+R150
+R151
+!i113 1
+R12
+R13
+R147
+w1675240414
+R146
+Eshifter
+Z171 w1675370047
+R2
+R3
+!i122 176
+R4
+R101
+R102
+l0
+L4 1
+VmUh5B8h2zzFNQUh?K7T_31
+!s100 lM2l2T_JZI18DXKA6H1b32
+R7
+32
+Z172 !s110 1675371174
+!i10b 1
+Z173 !s108 1675371174.000000
+R105
+R106
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 7 shifter 0 22 mUh5B8h2zzFNQUh?K7T_31
+!i122 176
+l14
+Z174 L11 20
+VRa@;GZIz8<YO`hzJ@ioPR2
+!s100 XF6jFT5lgJD84VRURMVai0
+R7
+32
+R172
+!i10b 1
+R173
+R105
+R106
+!i113 1
+R12
+R13
+Eshifter_tb
+Z175 w1675371170
+R2
+R3
+!i122 175
+R4
+R108
+R109
+l0
+L4 1
+V57D][fEh_[n4Kmm4=72]O3
+!s100 PTzzzAQh9VHMad4CKY=SK1
+R7
+32
+R172
+!i10b 1
+Z176 !s108 1675371173.000000
+R111
+R112
+!i113 1
+R12
+R13
+Asim
+R2
+R3
+DEx4 work 10 shifter_tb 0 22 57D][fEh_[n4Kmm4=72]O3
+!i122 175
+l20
+R156
+VDaOgB3^VNY_WdNoX3e6QJ1
+!s100 O13oAKFf]20@m0Bk2@@Z52
+R7
+32
+R172
+!i10b 1
+R176
+R111
+R112
+!i113 1
+R12
+R13
+Eshiftreg
+R43
+R2
+R3
+!i122 359
+R4
+Z177 8//Mac/Home/Downloads/vhdl_fpga/shiftReg.vhd
+Z178 F//Mac/Home/Downloads/vhdl_fpga/shiftReg.vhd
+l0
+L4 1
+VIb`n9@Ib:<3<E=9B?7U<D1
+!s100 7_H_aoiIY5T]gaFIkOAcD0
+R7
+32
+R91
+!i10b 1
+R97
+Z179 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/shiftReg.vhd|
+Z180 !s107 //Mac/Home/Downloads/vhdl_fpga/shiftReg.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+DEx4 work 8 shiftreg 0 22 Ib`n9@Ib:<3<E=9B?7U<D1
+!i122 359
+l16
+L12 19
+V@`6l>O?CmieGYTaZJoY^o3
+!s100 7`IYU=`:JelWX^HK[OMN>0
+R7
+32
+R91
+!i10b 1
+R97
+R179
+R180
+!i113 1
+R12
+R13
+Eshiftreg_tb
+R43
+R1
+R2
+R3
+!i122 363
+R4
+Z181 8//Mac/Home/Downloads/vhdl_fpga/tb_shiftreg.vhd
+Z182 F//Mac/Home/Downloads/vhdl_fpga/tb_shiftreg.vhd
+l0
+L5 1
+VgVGd6FIeW_Hn;3lLRS@Ab3
+!s100 Kcg]KO0N>49?OhW<F]YdB1
+R7
+32
+R96
+!i10b 1
+Z183 !s108 1675686471.000000
+Z184 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/tb_shiftreg.vhd|
+Z185 !s107 //Mac/Home/Downloads/vhdl_fpga/tb_shiftreg.vhd|
+!i113 1
+R12
+R13
+Abench
+R1
+R2
+R3
+Z186 DEx4 work 11 shiftreg_tb 0 22 gVGd6FIeW_Hn;3lLRS@Ab3
+!i122 363
+l25
+Z187 L8 42
+Z188 VH_8XlXNfK]G@3AHz99;Z]3
+Z189 !s100 g`m>kTdidaa<:JShC1M1@2
+R7
+32
+R96
+!i10b 1
+R183
+R184
+R185
+!i113 1
+R12
+R13
+Esipo_shift_register
+Z190 w1675500671
+R2
+R3
+!i122 346
+R4
+Z191 8//Mac/Home/Downloads/dd-1.vhd
+Z192 F//Mac/Home/Downloads/dd-1.vhd
+l0
+L4 1
+V6DMClRHXGVa`SZADBZgd[1
+!s100 0dQUGZj?UjGJNhH^>CXS00
+R7
+32
+R23
+!i10b 1
+R104
+Z193 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/dd-1.vhd|
+Z194 !s107 //Mac/Home/Downloads/dd-1.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+Z195 DEx4 work 19 sipo_shift_register 0 22 6DMClRHXGVa`SZADBZgd[1
+!i122 346
+l14
+R174
+VNZXLOZm=@F8VTl;eZZ?Fg1
+!s100 8V]CU;Q42YAln146SdhPD3
+R7
+32
+R23
+!i10b 1
+R104
+R193
+R194
+!i113 1
+R12
+R13
+Esipo_shift_register_tb
+Z196 w1675500677
+R2
+R3
+!i122 345
+R4
+Z197 8//Mac/Home/Downloads/tb_dd-1.vhd
+Z198 F//Mac/Home/Downloads/tb_dd-1.vhd
+l0
+L4 1
+VclZz2;UPU^@Oi6k`f9YKB1
+!s100 FhSS6BTle?]RHhO>JzlcB0
+R7
+32
+R103
+!i10b 1
+R104
+Z199 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/tb_dd-1.vhd|
+Z200 !s107 //Mac/Home/Downloads/tb_dd-1.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R195
+R2
+R3
+Z201 DEx4 work 22 sipo_shift_register_tb 0 22 clZz2;UPU^@Oi6k`f9YKB1
+!i122 345
+l12
+L7 42
+V>e:6ihQ<oY8hPG4EIOG<10
+!s100 5STD=F3iP5nFi7O@d]1L]1
+R7
+32
+R103
+!i10b 1
+R104
+R199
+R200
+!i113 1
+R12
+R13
+Atb_arch
+R2
+R3
+R201
+!i122 193
+l20
+R170
+VaZbHWb4am>lM@PBi901CN3
+!s100 DKZiH4UiAO:eV2h]83PO`3
+R7
+32
+!s110 1675374152
+!i10b 1
+!s108 1675374152.000000
+R111
+R112
+!i113 1
+R12
+R13
+R109
+w1675374148
+R108
+Esum_4_std_logic
+w1675175747
+R1
+R2
+R3
+!i122 59
+R4
+R37
+R38
+l0
+L5 1
+VDb;6EKz`o>6O5YEGF4]2D0
+!s100 9Zb77g2JHETNh>z`I^]SK3
+R7
+32
+!s110 1675175751
+!i10b 1
+!s108 1675175751.000000
+R39
+R40
+!i113 1
+R12
+R13
+Esum_four_signals
+w1675175556
+R1
+R2
+R3
+!i122 57
+R4
+R37
+R38
+l0
+L5 1
+V2_z9jZ[m@^>n;mI@D>QBe0
+!s100 fZYU2NPOYgNZ`P7RPK2ib1
+R7
+32
+!s110 1675175561
+!i10b 1
+!s108 1675175560.000000
+R39
+R40
+!i113 1
+R12
+R13
+Esyncadder
+Z202 w1675169709
+R1
+R2
+R3
+!i122 3
+R4
+Z203 8//Mac/Home/Downloads/vhdl_fpga/SyncAdder.vhd
+Z204 F//Mac/Home/Downloads/vhdl_fpga/SyncAdder.vhd
+l0
+L7 1
+VdX1VBP9;`Iz[UifT1D7l<0
+!s100 YO6]AkmGf?OI2>S1_cYfz1
+R7
+32
+Z205 !s110 1675169756
+!i10b 1
+Z206 !s108 1675169756.000000
+Z207 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/SyncAdder.vhd|
+Z208 !s107 //Mac/Home/Downloads/vhdl_fpga/SyncAdder.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+Z209 DEx4 work 9 syncadder 0 22 dX1VBP9;`Iz[UifT1D7l<0
+!i122 3
+l15
+L14 9
+VOGbf5fDc9PF;5lZ5@z2YU0
+!s100 WLFIZk6:><5TXdz3<Al;i0
+R7
+32
+R205
+!i10b 1
+R206
+R207
+R208
+!i113 1
+R12
+R13
+Esyncadder_tb
+Z210 w1675169739
+R2
+R3
+!i122 4
+R4
+Z211 8//Mac/Home/Downloads/vhdl_fpga/SyncAdder_tb.vhd
+Z212 F//Mac/Home/Downloads/vhdl_fpga/SyncAdder_tb.vhd
+l0
+L6 1
+V[b5AM@cATk>C^oHcTWn<Y1
+!s100 zBbcT3LbCmb4JQHQLJ58A1
+R7
+32
+R205
+!i10b 1
+R206
+Z213 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/SyncAdder_tb.vhd|
+Z214 !s107 //Mac/Home/Downloads/vhdl_fpga/SyncAdder_tb.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R209
+R2
+R3
+DEx4 work 12 syncadder_tb 0 22 [b5AM@cATk>C^oHcTWn<Y1
+!i122 4
+l14
+L9 37
+VG9Jl4<7A7@_ok2kMSNUdc2
+!s100 SRdM^2g4Wh>_R09HR2[m00
+R7
+32
+R205
+!i10b 1
+R206
+R213
+R214
+!i113 1
+R12
+R13
+Etb_adder
+Z215 w1675172626
+R1
+R2
+R3
+!i122 53
+R4
+R16
+R17
+l0
+L5 1
+V?T^iSbUbmn6IC1dFa^WFU2
+!s100 j>kEWjNc6j0A0b`[3IMCM1
+R7
+32
+Z216 !s110 1675174151
+!i10b 1
+Z217 !s108 1675174151.000000
+R18
+R19
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 8 tb_adder 0 22 ?T^iSbUbmn6IC1dFa^WFU2
+!i122 53
+l31
+L8 66
+VhK?lP;ncLTEgRLVJUodgh2
+!s100 KH_lX_j4ddLidz[kY4b`a0
+R7
+32
+R216
+!i10b 1
+R217
+R18
+R19
+!i113 1
+R12
+R13
+Etb_basys2lcd
+R43
+R49
+R2
+R3
+!i122 360
+R4
+Z218 8//Mac/Home/Downloads/vhdl_fpga/tb_Basys2Lcd.vhd
+Z219 F//Mac/Home/Downloads/vhdl_fpga/tb_Basys2Lcd.vhd
+l0
+L5 1
+V=ISn?HCMM^HAGMLg0=IZG3
+!s100 ajbI7?R22RjhmTjWfJIEn0
+R7
+32
+R91
+!i10b 1
+R97
+Z220 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/tb_Basys2Lcd.vhd|
+Z221 !s107 //Mac/Home/Downloads/vhdl_fpga/tb_Basys2Lcd.vhd|
+!i113 1
+R12
+R13
+Abehaviour
+R49
+R2
+R3
+DEx4 work 12 tb_basys2lcd 0 22 =ISn?HCMM^HAGMLg0=IZG3
+!i122 360
+l25
+L8 41
+V;M][iEmMm>`Q]M:^kozW:0
+!s100 a8]mLo[iS16YV27JQmhS63
+R7
+32
+R91
+!i10b 1
+R97
+R220
+R221
+!i113 1
+R12
+R13
+Etb_binbcd4
+w1675244599
+R2
+R3
+!i122 97
+R4
+R73
+R74
+l0
+L4 1
+Vb[A4O6YK27[HJ9D9=Al[G3
+!s100 _kd1GWeJ1lVPnYhB48TDX1
+R7
+32
+!s110 1675244630
+!i10b 1
+!s108 1675244630.000000
+R76
+R77
+!i113 1
+R12
+R13
+Etb_counters
+Z222 w1675177318
+R2
+R3
+!i122 65
+R4
+Z223 8//Mac/Home/Downloads/vhdl_fpga/tb_s.vhd
+Z224 F//Mac/Home/Downloads/vhdl_fpga/tb_s.vhd
+l0
+L7 1
+VKi[Bk;K;Vg2;iCj`bFS<O2
+!s100 2ceSFYK1CaR8hSd8YCgEh0
+R7
+32
+Z225 !s110 1675177475
+!i10b 1
+Z226 !s108 1675177475.000000
+Z227 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/tb_s.vhd|
+Z228 !s107 //Mac/Home/Downloads/vhdl_fpga/tb_s.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 11 tb_counters 0 22 Ki[Bk;K;Vg2;iCj`bFS<O2
+!i122 65
+l23
+L10 36
+VCPUmk_P<J;A:I=Pco>]am2
+!s100 n]Wd5K`jULT=0H[kWVzPS0
+R7
+32
+R225
+!i10b 1
+R226
+R227
+R228
+!i113 1
+R12
+R13
+Etb_program_1
+R43
+R2
+R3
+!i122 362
+R4
+Z229 8//Mac/Home/Downloads/vhdl_fpga/tb_program.vhd
+Z230 F//Mac/Home/Downloads/vhdl_fpga/tb_program.vhd
+l0
+L4 1
+V;N]iBIXX<93REizb_BeO`2
+!s100 O0B?:o2iUMZSFd4h[j]b]0
+R7
+32
+R96
+!i10b 1
+R183
+Z231 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/tb_program.vhd|
+Z232 !s107 //Mac/Home/Downloads/vhdl_fpga/tb_program.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 12 tb_program_1 0 22 ;N]iBIXX<93REizb_BeO`2
+!i122 362
+l19
+R169
+V<gX[UTfcgLUbLNiYI>=mb2
+!s100 VBXj3kH@^ZBjb:>4```Q22
+R7
+32
+R96
+!i10b 1
+R183
+R231
+R232
+!i113 1
+R12
+R13
+Eupdown_counter
+Z233 w1675177315
+R51
+R50
+R2
+R3
+!i122 66
+R4
+Z234 8//Mac/Home/Downloads/vhdl_fpga/d.vhd
+Z235 F//Mac/Home/Downloads/vhdl_fpga/d.vhd
+l0
+L8 1
+VCDU2d<C:`VIJa:jT>g2Uj1
+!s100 85izQcRDE1IcK1SC>Em<V2
+R7
+32
+R225
+!i10b 1
+R226
+Z236 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Downloads/vhdl_fpga/d.vhd|
+Z237 !s107 //Mac/Home/Downloads/vhdl_fpga/d.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R51
+R50
+R2
+R3
+DEx4 work 14 updown_counter 0 22 CDU2d<C:`VIJa:jT>g2Uj1
+!i122 66
+l21
+L18 31
+VZ;zekP36K85=C9ZVG2]P41
+!s100 UV`a_AW8g]7U]ECAU>TK@0
+R7
+32
+R225
+!i10b 1
+R226
+R236
+R237
+!i113 1
+R12
+R13
