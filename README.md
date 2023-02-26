@@ -14,6 +14,7 @@ If desired, connect the FPGA board to your development environment and upload th
 Usage
 The simulation results can be observed in the waveform viewer of the VHDL development environment. The output of the design can also be monitored on the FPGA board if testing on hardware.
 
+
 ## Project Structure
 
 The project consists of a single VHDL source file and a testbench file for simulation. The main VHDL file includes the design implementation, while the testbench file provides the input stimuli for simulation.
@@ -29,3 +30,4 @@ The project is released under an open-source license, such as the MIT License. P
 ## Contact Information
 
 For questions or support, please open an issue on the project's GitHub page or contact the project maintainer directly.
+
