@@ -25,6 +25,7 @@ Contributions to the project are welcome in the form of bug reports, feature req
 
 ## Licensing
 
+
 The project is released under an open-source license, such as the MIT License. Please refer to the LICENSE file in the project repository for details.
 
 ## Contact Information
